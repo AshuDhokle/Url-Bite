@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -34,3 +35,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+=======
+# Url-Bite
+The SaaS URL Shortener app, built with Next.js, offers a seamless experience for creating and managing short URLs. It features robust authorization using JSON Web Tokens (JWT) to ensure secure user authentication and access control.The app integrates Stripe for payment and subscription management, enabling users to subscribe to premium plans
+>>>>>>> 9cdb6069389a9dd941b89daa8dc95f22b47ead5c
